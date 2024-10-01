@@ -6,7 +6,7 @@
 * Once in a certain range of the enemy, random math problems will be generated based on the difficulty chosen for the user to answer, and if you answer all of them correctly YOU WIN!
 
 
-![Screenshot 2024-09-30 203624](https://github.com/user-attachments/assets/ed43d5fe-afa9-4b08-b659-ae2f2f122367)
+![math_game](https://github.com/user-attachments/assets/463f0852-f1e5-47fb-a668-35832921c1d8)
 ## Features
 1. Turtle module 🐢
 2. Random module ❓
