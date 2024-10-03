@@ -10,6 +10,3 @@
 ## Features
 1. Turtle module 🐢
 2. Random module ❓
-
-## How to Use
-Make a clone of the soure code and import it in any IDLE. Enjoy!
